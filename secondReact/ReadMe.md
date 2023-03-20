@@ -1,5 +1,5 @@
 Simple example of a React .map() function
-It takes an array and returns as many <li> as the elements in the array!
+It takes an array and returns as many li html tag as the elements in the array!
 
 ![Alt text](screen1.png?raw=true "Title")
 
